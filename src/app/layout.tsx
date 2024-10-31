@@ -6,7 +6,7 @@ import { NextUIProvider } from "@nextui-org/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CollabCloud",
+  title: "Collab Cloud",
   description: "Platform catering to video creators and media houses allowing all the necessary features required to succeed and the ever-evolving landscape of content creation.",
 };
 
